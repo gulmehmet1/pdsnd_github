@@ -1,13 +1,13 @@
-### Date created
+### Date createdxxxxxxxxxxxxxxxxxxxxxxxx
 Include the date you created this project and README file.
 
-###xxxxxxxx########### Project Title
+###xxxxxxxx########### Project Titlexxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 Replace the Project Title
 
-### Description
+### Descriptionxxxxxxxxxxxxxxxxxxx
 Describe what your project is about and what it does
 
-### Files used
+### Files usedxxxxxxxxxxxxxxxxx
 Include the files used
 
 ### Credits
